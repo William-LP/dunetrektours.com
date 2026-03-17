@@ -1,0 +1,94 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Mar 2026 10:33:23 at https://dunetrektours.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dunetrektours.com/ -O1 "C:\My Web Sites\dunetrektours" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:34:36	Error: 	"<none>" (520) at link https://dunetrektours.com/xmlrpc.php?rsd (from https://dunetrektours.com/)
+10:37:03	Error: 	"Not Found" (404) at link https://dunetrektours.com/destination-2 (from https://dunetrektours.com/)
+10:37:12	Error: 	"Not Found" (404) at link https://dunetrektours.com/844-1755-44411 (from https://dunetrektours.com/)
+10:37:12	Error: 	"Not Found" (404) at link https://dunetrektours.com/cdn-cgi/l/email-protection (from https://dunetrektours.com/)
+10:37:14	Warning: 	Moved Permanently for https://dunetrektours.com/?p=3139
+10:37:14	Warning: 	File has moved from https://dunetrektours.com/?p=3139 to https://dunetrektours.com/destinations-2/
+10:37:14	Error: 	"Not Found" (404) at link https://dunetrektours.com/destinations-2/844-1755-44411 (from https://dunetrektours.com/destinations-2/)
+10:37:14	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11315
+10:37:14	Warning: 	File has moved from https://dunetrektours.com/?p=11315 to https://dunetrektours.com/trek/
+10:37:57	Error: 	"Not Found" (404) at link https://dunetrektours.com/trek/844-1755-44411 (from https://dunetrektours.com/trek/)
+10:37:57	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11313
+10:37:57	Warning: 	File has moved from https://dunetrektours.com/?p=11313 to https://dunetrektours.com/one-day-trip/
+10:38:44	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/844-1755-44411 (from https://dunetrektours.com/one-day-trip/)
+10:38:44	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11314
+10:38:44	Warning: 	File has moved from https://dunetrektours.com/?p=11314 to https://dunetrektours.com/multi-day-trip/
+10:39:10	Warning: 	Moved Permanently for https://dunetrektours.com/a-3-day-tour-from-fes-to-merzouga/
+10:39:10	Warning: 	File has moved from https://dunetrektours.com/a-3-day-tour-from-fes-to-merzouga/ to https://dunetrektours.com/multi-day-trip/a-3-day-tour-from-fes-to-merzouga/
+10:39:10	Error: 	"Not Found" (404) at link https://dunetrektours.com/multi-day-trip/844-1755-44411 (from https://dunetrektours.com/multi-day-trip/)
+10:39:10	Warning: 	Moved Permanently for https://dunetrektours.com/?p=614
+10:39:10	Warning: 	File has moved from https://dunetrektours.com/?p=614 to https://dunetrektours.com/about-us/
+10:39:10	Error: 	"Not Found" (404) at link https://dunetrektours.com/about-us/844-1755-44411 (from https://dunetrektours.com/about-us/)
+10:39:11	Warning: 	Moved Permanently for https://dunetrektours.com/?p=890
+10:39:11	Warning: 	File has moved from https://dunetrektours.com/?p=890 to https://dunetrektours.com/contact/
+10:39:11	Error: 	"Not Found" (404) at link https://dunetrektours.com/contact/%22212610948190 (from https://dunetrektours.com/contact/)
+10:39:11	Error: 	"Not Found" (404) at link https://dunetrektours.com/contact/844-1755-44411 (from https://dunetrektours.com/contact/)
+10:39:14	Warning: 	Moved Permanently for https://dunetrektours.com/?p=12595
+10:39:14	Warning: 	File has moved from https://dunetrektours.com/?p=12595 to https://dunetrektours.com/one-day-trip/one-day-private-guided-tour-of-marrakech/
+10:39:14	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/one-day-private-guided-tour-of-marrakech/844-1755-44411 (from https://dunetrektours.com/one-day-trip/one-day-private-guided-tour-of-marrakech/)
+10:39:14	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11686
+10:39:14	Warning: 	File has moved from https://dunetrektours.com/?p=11686 to https://dunetrektours.com/one-day-trip/to-essaouira-from-marrakech/
+10:39:14	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/to-essaouira-from-marrakech/844-1755-44411 (from https://dunetrektours.com/one-day-trip/to-essaouira-from-marrakech/)
+10:39:14	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11695
+10:39:14	Warning: 	File has moved from https://dunetrektours.com/?p=11695 to https://dunetrektours.com/one-day-trip/cooking-class-in-the-atlas-mountains/
+10:39:14	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/cooking-class-in-the-atlas-mountains/844-1755-44411 (from https://dunetrektours.com/one-day-trip/cooking-class-in-the-atlas-mountains/)
+10:39:14	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11692
+10:39:14	Warning: 	File has moved from https://dunetrektours.com/?p=11692 to https://dunetrektours.com/one-day-trip/agafay-desert/
+10:39:15	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/agafay-desert/844-1755-44411 (from https://dunetrektours.com/one-day-trip/agafay-desert/)
+10:39:15	Warning: 	Moved Permanently for https://dunetrektours.com/?p=12573
+10:39:15	Warning: 	File has moved from https://dunetrektours.com/?p=12573 to https://dunetrektours.com/multi-day-trip/3-day-trip-merzouga/
+10:39:15	Error: 	"Not Found" (404) at link https://dunetrektours.com/multi-day-trip/3-day-trip-merzouga/844-1755-44411 (from https://dunetrektours.com/multi-day-trip/3-day-trip-merzouga/)
+10:39:15	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11650
+10:39:15	Warning: 	File has moved from https://dunetrektours.com/?p=11650 to https://dunetrektours.com/multi-day-trip/2-day-zagora-desert-adventure/
+10:39:15	Error: 	"Not Found" (404) at link https://dunetrektours.com/multi-day-trip/2-day-zagora-desert-adventure/844-1755-44411 (from https://dunetrektours.com/multi-day-trip/2-day-zagora-desert-adventure/)
+10:39:15	Error: 	"<none>" (520) at link https://dunetrektours.com/xmlrpc.php (from https://dunetrektours.com/my-account/?action=lostpassword)
+10:39:16	Warning: 	Moved Permanently for https://dunetrektours.com/?p=24
+10:39:16	Warning: 	File has moved from https://dunetrektours.com/?p=24 to https://dunetrektours.com/my-account/
+10:39:16	Error: 	"Not Found" (404) at link https://dunetrektours.com/my-account/844-1755-44411 (from https://dunetrektours.com/my-account/?action=lostpassword)
+10:39:16	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11476
+10:39:16	Warning: 	File has moved from https://dunetrektours.com/?p=11476 to https://dunetrektours.com/trek/4-day-toubkal-trek/
+10:39:16	Error: 	"Not Found" (404) at link https://dunetrektours.com/trek/4-day-toubkal-trek/844-1755-44411 (from https://dunetrektours.com/trek/4-day-toubkal-trek/)
+10:39:19	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11581
+10:39:19	Warning: 	File has moved from https://dunetrektours.com/?p=11581 to https://dunetrektours.com/trek/jebel-saghro-trek/
+10:39:19	Error: 	"Not Found" (404) at link https://dunetrektours.com/trek/Jebel-Saghro-Trek/844-1755-44411 (from https://dunetrektours.com/trek/Jebel-Saghro-Trek/)
+10:39:22	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11586
+10:39:22	Warning: 	File has moved from https://dunetrektours.com/?p=11586 to https://dunetrektours.com/trek/rose-valley-trek/
+10:39:22	Error: 	"Not Found" (404) at link https://dunetrektours.com/trek/Rose-Valley-trek/844-1755-44411 (from https://dunetrektours.com/trek/Rose-Valley-trek/)
+10:39:25	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11592
+10:39:25	Warning: 	File has moved from https://dunetrektours.com/?p=11592 to https://dunetrektours.com/trek/mount-mgoun-trek/
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/trek/Mount-mgoun-trek/844-1755-44411 (from https://dunetrektours.com/trek/Mount-mgoun-trek/)
+10:39:25	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11669
+10:39:25	Warning: 	File has moved from https://dunetrektours.com/?p=11669 to https://dunetrektours.com/one-day-trip/from-marrakech-to-imlil/
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/from-marrakech-to-imlil/844-1755-44411 (from https://dunetrektours.com/one-day-trip/from-marrakech-to-imlil/)
+10:39:25	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11672
+10:39:25	Warning: 	File has moved from https://dunetrektours.com/?p=11672 to https://dunetrektours.com/one-day-trip/private-trip-to-ourika-valley/
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/private-trip-to-ourika-valley/844-1755-44411 (from https://dunetrektours.com/one-day-trip/private-trip-to-ourika-valley/)
+10:39:25	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11675
+10:39:25	Warning: 	File has moved from https://dunetrektours.com/?p=11675 to https://dunetrektours.com/one-day-trip/from-marrakech-to-ait-ben-haddou/
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/from-marrakech-to-ait-ben-haddou/844-1755-44411 (from https://dunetrektours.com/one-day-trip/from-marrakech-to-ait-ben-haddou/)
+10:39:25	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11684
+10:39:25	Warning: 	File has moved from https://dunetrektours.com/?p=11684 to https://dunetrektours.com/one-day-trip/hot-air-balloon-adventure-in-marrakech/
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/hot-air-balloon-adventure-in-marrakech/844-1755-44411 (from https://dunetrektours.com/one-day-trip/hot-air-balloon-adventure-in-marrakech/)
+10:39:25	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11689
+10:39:25	Warning: 	File has moved from https://dunetrektours.com/?p=11689 to https://dunetrektours.com/one-day-trip/to-ouzoud-waterfalls/
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/one-day-trip/to-ouzoud-waterfalls/844-1755-44411 (from https://dunetrektours.com/one-day-trip/to-ouzoud-waterfalls/)
+10:39:25	Warning: 	Moved Permanently for https://dunetrektours.com/?p=11647
+10:39:25	Warning: 	File has moved from https://dunetrektours.com/?p=11647 to https://dunetrektours.com/multi-day-trip/9-day-morocco-adventure/
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/multi-day-trip/9-day-morocco-adventure/844-1755-44411 (from https://dunetrektours.com/multi-day-trip/9-day-morocco-adventure/)
+10:39:25	Warning: 	Moved Permanently for https://dunetrektours.com/?p=12689
+10:39:25	Warning: 	File has moved from https://dunetrektours.com/?p=12689 to https://dunetrektours.com/multi-day-trip/a-3-day-tour-from-fes-to-merzouga/
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/multi-day-trip/a-3-day-tour-from-fes-to-merzouga/844-1755-44411 (from https://dunetrektours.com/multi-day-trip/a-3-day-tour-from-fes-to-merzouga/)
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/trek/jebel-saghro-trek/844-1755-44411 (from https://dunetrektours.com/trek/jebel-saghro-trek/)
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/trek/rose-valley-trek/844-1755-44411 (from https://dunetrektours.com/trek/rose-valley-trek/)
+10:39:25	Error: 	"Not Found" (404) at link https://dunetrektours.com/trek/mount-mgoun-trek/844-1755-44411 (from https://dunetrektours.com/trek/mount-mgoun-trek/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 2 seconds : 601 links scanned, 542 files written (45964696 bytes overall) [37624277 bytes received at 103934 bytes/sec], 18325959 bytes transferred using HTTP compression in 323 files, ratio 28%, 37.8 requests per connection
+(33 errors, 50 warnings, 0 messages)
